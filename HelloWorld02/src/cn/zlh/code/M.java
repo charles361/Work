@@ -14,7 +14,7 @@ public class M {
 	/**
 	 * 
 	 */
-	public M() {
+	public M() { 
 		// TODO Auto-generated constructor stub
 	}
 
